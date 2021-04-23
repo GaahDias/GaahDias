@@ -1,5 +1,6 @@
 ### Hey! I'm Gabriel 👋
-### Hope you like my projects!
+
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaahDias)](https://github.com/GaahDias/github-readme-stats)
 
 <!--
 **GaahDias/GaahDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
