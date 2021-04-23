@@ -1,7 +1,5 @@
 ![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
-> A passionate web developer. 
-
 ### 💻 Currently studying:
 * Nodejs
 * PHP
