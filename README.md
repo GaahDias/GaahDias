@@ -1,6 +1,6 @@
 ![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
-💻 I'm currently studying:
+##💻 I'm currently studying:
 * Nodejs
 * PHP
 
