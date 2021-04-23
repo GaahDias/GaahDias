@@ -4,7 +4,7 @@
 * Nodejs
 * PHP
 
-### 🌏 É br e usa o discord? Entre na nossa comunidade! https://discord.gg/qydeyntwye
+### 🌏 É br e usa discord? Entre na nossa comunidade! https://discord.gg/qydeyntwye
 
 ### 💥 My github stats:
 <center>
