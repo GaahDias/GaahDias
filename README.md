@@ -7,7 +7,14 @@
 ### 🌏 É br e usa o discord? Entre na nossa comunidade! https://discord.gg/qydeyntwye
 
 ### 💥 My github stats:
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaahDias&show_icons=true&theme=tokyonight)](https://github.com/GaahDias/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaahDias&layout=compact)](https://github.com/GaahDias/github-readme-stats)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=GaahDias&show_icons=true&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaahDias&layout=compact"/></td>
+    </tr>   
+</table>
+</center>  
 
 <!--
 **GaahDias/GaahDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
