@@ -2,6 +2,7 @@
 
 ### 💻 Currently studying:
 * Nodejs
+* Typescript
 * PHP
 
 ### 🌏 É br e usa discord? Entre na nossa comunidade! https://discord.gg/qydeyntwye
