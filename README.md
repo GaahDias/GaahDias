@@ -1,4 +1,4 @@
-
+[![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaahDias&show_icons=true&theme=tokyonight)](https://github.com/GaahDias/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaahDias&layout=compact)](https://github.com/GaahDias/github-readme-stats)
 
