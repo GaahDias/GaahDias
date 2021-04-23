@@ -1,6 +1,6 @@
 ![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
-## I'm a web development student. 
+## A passionate web developer. 
 
 ### 💻 Currently studying:
 * Nodejs
