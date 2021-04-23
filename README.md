@@ -6,8 +6,7 @@
 * Nodejs
 * PHP
 
-### 🌏 É br e usa o discord? Entre na nossa comunidade!
-### https://discord.gg/qydeyntwye
+### 🌏 É br e usa o discord? Entre na nossa comunidade! https://discord.gg/qydeyntwye
 
 ### 💥 My github stats:
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaahDias&show_icons=true&theme=tokyonight)](https://github.com/GaahDias/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaahDias&layout=compact)](https://github.com/GaahDias/github-readme-stats)
