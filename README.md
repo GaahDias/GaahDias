@@ -1,4 +1,10 @@
-![Github Profile](https://i.imgur.com/BsoAUJw.png)
+<center>
+<table>
+    <tr>
+        <td><img width="90%" height="20%" src="https://i.imgur.com/BsoAUJw.png" /></td>
+    </tr>   
+</table>
+</center>  
 
 ### 💻 Currently studying:
 * Nodejs
