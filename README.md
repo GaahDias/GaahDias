@@ -1,6 +1,4 @@
-<center>
-    ![Github Profile](https://i.imgur.com/BsoAUJw.png)
-</center>
+![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
 ### 💻 Currently studying:
 * Nodejs
