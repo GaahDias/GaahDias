@@ -1,6 +1,8 @@
 ![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
-## 💻 I'm currently studying:
+## I'm a web development student. I also take a technical course at Etec Basilides de Godoy, where I'm in the second semester.
+
+## 💻 Currently studying:
 * Nodejs
 * PHP
 
