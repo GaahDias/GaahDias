@@ -1,6 +1,6 @@
 ![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
-## I'm a web development student. I also take a technical course at Etec Basilides de Godoy, where I'm in the second semester.
+## I'm a web development student. 
 
 ### 💻 Currently studying:
 * Nodejs
