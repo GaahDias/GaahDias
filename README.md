@@ -2,7 +2,7 @@
 
 ### 💻 Currently studying:
 * Nodejs
-* C++
+* C
 
 ### 🌏 É br e usa discord? Entre na nossa comunidade! https://discord.gg/qydeyntwye
 
