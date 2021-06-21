@@ -1,7 +1,7 @@
 ![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
 ### 💻 Currently studying:
-* Nodejs
+* Python
 * C
 
 ### 🌏 É br e usa discord? Entre na nossa comunidade! https://discord.gg/qydeyntwye
