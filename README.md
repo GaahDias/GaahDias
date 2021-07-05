@@ -1,10 +1,16 @@
 ![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
-### 💻 Currently studying:
-* Python
-* C
+### 💻 Technologies I'm interested in:
+![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL Logo](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas Logo](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌏 É br e usa discord? Entre na nossa comunidade! https://discord.gg/qydeyntwye
+### 📚 Currently studying:
+![Django Logo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 💽 Operational System:
+![Manjaro Logo](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
 ### 💥 My github stats:
 <center>
