@@ -1,26 +1,34 @@
 ![Github Profile](https://i.imgur.com/BsoAUJw.png)
 
 ### 💻 Technologies I'm interested in:
-![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux Logo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL Logo](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python Logo](https://a11ybadges.com/badge?logo=python)
+![Linux Logo](https://a11ybadges.com/badge?logo=linux)
+![AWS Logo](https://a11ybadges.com/badge?logo=amazonaws)
+![Snowflake Logo](https://a11ybadges.com/badge?logo=snowflake)
 
 ### 📚 Currently studying:
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+![Go Logo](https://a11ybadges.com/badge?logo=go)
 
 ### 💽 Operational System:
-![Debian Logo](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Debian Logo](https://a11ybadges.com/badge?logo=debian)
+
+### 🤝 Social Media:
+<div>
+    <a href="https://www.linkedin.com/in/gaabriel-dias/" target="_blank"><img src="https://a11ybadges.com/badge?logo=linkedin" target="_blank"></a>
+    <a href="https://discord.com/invite/qydeyntwye" target="_blank"><img src="https://a11ybadges.com/badge?logo=discord" target="_blank"></a>
+</div>
 
 ### 💥 My github stats:
-<center>
-<table>
-    <tr>
-        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=GaahDias&show_icons=true&theme=tokyonight" /></td>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaahDias&layout=compact&langs_count=12&theme=tokyonight&exclude_repo=pandas-notebook,proconsult-mvc,netflix-data"/></td>
-    </tr>   
-</table>
-</center>  
+<div>
+    <center>
+        <table>
+            <tr>
+                <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=GaahDias&show_icons=true&theme=tokyonight" /></td>
+                <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaahDias&layout=compact&langs_count=12&theme=tokyonight&exclude_repo=pandas-notebook,proconsult-mvc,netflix-data"/></td>
+            </tr>   
+        </table>
+    </center>  
+</div>
 
 <!--
 **GaahDias/GaahDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
