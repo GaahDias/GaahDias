@@ -10,7 +10,7 @@
 ![Go Logo](https://a11ybadges.com/badge?logo=go)
 
 ### 💽 Operational System:
-![Debian Logo](https://a11ybadges.com/badge?logo=debian)
+![Manjaro Logo](https://a11ybadges.com/badge?logo=manjaro)
 
 ### 🤝 Social Media:
 <div>
