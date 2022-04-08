@@ -8,6 +8,7 @@
 
 ### 📚 Currently studying:
 ![Go Logo](https://a11ybadges.com/badge?logo=go)
+![Lua Logo](https://a11ybadges.com/badge?logo=lua)
 
 ### 💽 Operational System:
 ![Arch Logo](https://a11ybadges.com/badge?logo=archlinux)
