@@ -2,6 +2,7 @@
 
 ### 💻 Technologies I'm interested in:
 ![Python Logo](https://a11ybadges.com/badge?logo=python)
+![C Logo](https://a11ybadges.com/badge?logo=c)
 ![Linux Logo](https://a11ybadges.com/badge?logo=linux)
 ![AWS Logo](https://a11ybadges.com/badge?logo=amazonaws)
 ![Snowflake Logo](https://a11ybadges.com/badge?logo=snowflake)
